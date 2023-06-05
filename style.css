@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+.background-image {
+    background-image: url('./images/bg-pattern-quotation.svg');
+    background-repeat: no-repeat;
+    background-position: top right;
+  }
